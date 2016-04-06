@@ -1,0 +1,7 @@
+from sys import argv
+a = raw_input("a")
+b = raw_input("b")
+a,b = argv
+print "a is :",a
+print "b is :",b
+
